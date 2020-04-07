@@ -5,6 +5,7 @@ html {
     height: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    background-color: #ffb9c6;
 }
 
 body {
@@ -13,7 +14,6 @@ body {
     padding: 0;
     width: 100%;
     max-width: 100%;
-    background-color: #ffb9c6;
     background: linear-gradient(0deg,#ffb9c6,#694ff6);
 }
 
